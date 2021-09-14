@@ -1,0 +1,23 @@
+body {
+    padding: 25px;
+    background-color: white;
+    color: #121212;
+    transition-duration: 2s;
+}
+  
+.dark-mode {
+    background-color: #121212;
+    color: white;
+    transition-duration: 2s;
+}
+
+#addBtn, #minusBtn, #divideBtn, #multiplyBtn{  
+    margin-left: 30px;
+    font-size: 20px;
+    width: 50px;
+    height: 50px;
+}
+
+h1 {
+    margin: 50px;
+}
